@@ -1,0 +1,12 @@
+.div-css {
+    background-color: red;
+    width: 20%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div-css p {
+    color: white;
+}

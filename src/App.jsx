@@ -1,7 +1,7 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom"
 import Menu from "./components/Menu"
 import PaginaPadrao from "./components/PaginaPadrao"
-import Exemplo1 from "./pages/exemplo1"
+import Exemplo1 from "./pages/Exemplo1"
 import Exemplo2 from "./pages/Exemplo2"
 
 function App() {

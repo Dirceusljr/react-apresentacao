@@ -1,0 +1,12 @@
+.divmodulo {
+  background-color: green;
+  width: 20%;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.divmodulo p {
+  color: white;
+}
